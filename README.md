@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about **Deep Learning and Generative AI**
 - 🔭 I’m currently working on 
 - 👨‍💻 My published research projects are available [here](https://scholar.google.com/citations?hl=en&user=bBjeWI0AAAAJ&view_op=list_works&sortby=pubdate)
-- 💬 Ask me about **Mathematics**, **Chemical Engineering**, **Machine Learning**, **Biomedical Devices**, **Analytical Chemistry**, and **Polymers**
+- 💬 Ask me about **Mathematical Modeling**, **Chemical Engineering**, **Machine Learning**, **Biomedical Devices**, **Analytical Chemistry**, and **Polymers**
 
 
 <!--
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ In this paper, this has been demonstrated using a multidimensional phase-field modeling framework and validated against real-time experiments.
 -->
 
 ### 🤝🏻 &nbsp;Connect with Me
