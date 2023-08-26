@@ -7,7 +7,7 @@
 - 👨‍💻 My published research projects are available [here](https://scholar.google.com/citations?hl=en&user=bBjeWI0AAAAJ&view_op=list_works&sortby=pubdate)
 - 💬 Ask me about **Mathematical Modeling**, **Chemical Engineering**, **Machine Learning**, **Biomedical Devices**, **Analytical Chemistry**, and **Polymers**
 
-### 🛠 &nbsp;Languages and Tools
+## 💻 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![MATLAB](https://img.shields.io/badge/MATLAB-005594)
@@ -15,6 +15,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+
+## 🏗️ My Projects
+
+## 🎓 Certificates & Trainings
 
 <!--
 **gspandhana/gspandhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
