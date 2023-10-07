@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spandhana</h1>
-<h3 align="center">Engineer, Scientist, Educator</h3>
--------------
+<h3 align="center">I am an engineer, scientist, and an educator</h3>
+
 
 - 🌱 I’m currently learning about **Deep Learning and Generative AI**
 - 🔭 I’m currently working on 
