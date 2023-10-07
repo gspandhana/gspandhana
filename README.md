@@ -20,6 +20,8 @@
 ## 🏗️ My Projects
 
 ## :page_with_curl: My Publications
+<img src=./PhD_Thesis/blob/main/pH11_movie.gif width="250">
+<img src=./PhD_Thesis/pH12_movie.gif width="250">
 
 ## 🎓 Certificates & Trainings
 
