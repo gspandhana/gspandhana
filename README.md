@@ -19,6 +19,8 @@
 
 ## 🏗️ My Projects
 
+## 🏗️ My Publications
+
 ## 🎓 Certificates & Trainings
 
 <!--
