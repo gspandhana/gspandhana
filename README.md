@@ -19,7 +19,7 @@
 
 ## 🏗️ My Projects
 
-## 🏗️ My Publications
+## :page_with_curl: My Publications
 
 ## 🎓 Certificates & Trainings
 
