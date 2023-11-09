@@ -5,7 +5,7 @@ I am one of the founding members of the MathWorks India Education team.
 Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown)) and David Malan ([CS50](https://cs50.harvard.edu/x/2023/)), I have worked quite extensively on scientific computing and engineering mathematics pedagogy, developing code and applications to help aid mathematics instruction in classroom. I have spoken at conferences addressing policy-makers and institute-leaders, and advocated for reform in engineering education. Central to my pedagogical approach is the belief that classroom lessons should always have practical relevance, ensuring that students acquire knowledge that can be directly applied to real-world scenarios.
 
 
-I have an interdisciplinary background. As a researcher I worked in a wet-lab, discovered antibiotics, tested their safety and efficacy. I have developed a smart pill that can 
+
  
 
 
@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
 <a href="https://linkedin.com/in/gspandhana"><img src="https://img.shields.io/badge/-gspandhana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href= "https://medium.com/@spandhanagonuguntla"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<!--<a href= "https://medium.com/@spandhanagonuguntla"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>-->
 </p>
