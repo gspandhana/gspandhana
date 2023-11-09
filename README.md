@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Spandhana</h1>
 <h3 align="center">I am an engineer, scientist, and an educator</h3>
 
+I am one of the founding members of the MathWorks India Education team. 
+Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown)) and David Malan ([CS50](https://cs50.harvard.edu/x/2023/)), I have worked quite extensively on scientific computing and engineering mathematics pedagogy, developing code and applications to help aid mathematics instruction in classroom. I have spoken at conferences addressing policy-makers and institute-leaders, and advocate for reform in engineering education. Central to my pedagogical approach is the belief that classroom lessons should always have practical relevance, ensuring that students acquire knowledge that can be directly applied to real-world scenarios.
+
+ 
+
 
 - 🌱 I’m currently learning about **Deep Learning and Generative AI**
-- 🔭 I’m currently working on 
+- 🔭 I’m currently exploring AI for drug discovery
 - 👨‍💻 My published research projects are available [here](https://scholar.google.com/citations?hl=en&user=bBjeWI0AAAAJ&view_op=list_works&sortby=pubdate)
-- 💬 Ask me about **Mathematical Modeling**, **Chemical Engineering**, **Machine Learning**, **Biomedical Devices**, **Analytical Chemistry**, and **Polymers**
+- 💬 Ask me about **Mathematical Modeling**, **Chemical Engineering**, **Machine Learning**, **Biomedical Devices**, **Analytical Chemistry**, **Polymers**, **Experimental Research**, **Image Processing**
 
 ## 💻 Technologies & Tools
 
