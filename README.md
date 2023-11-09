@@ -24,7 +24,7 @@ I have an interdisciplinary background. As a researcher I worked in a wet-lab, d
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
-## 🏗️ My Projects
+<!--## 🏗️ My Projects -->
 
 ## :page_with_curl: My Publications
 
