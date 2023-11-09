@@ -2,8 +2,10 @@
 <h3 align="center">I am an engineer, scientist, and an educator</h3>
 
 I am one of the founding members of the MathWorks India Education team. 
-Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown)) and David Malan ([CS50](https://cs50.harvard.edu/x/2023/)), I have worked quite extensively on scientific computing and engineering mathematics pedagogy, developing code and applications to help aid mathematics instruction in classroom. I have spoken at conferences addressing policy-makers and institute-leaders, and advocate for reform in engineering education. Central to my pedagogical approach is the belief that classroom lessons should always have practical relevance, ensuring that students acquire knowledge that can be directly applied to real-world scenarios.
+Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown)) and David Malan ([CS50](https://cs50.harvard.edu/x/2023/)), I have worked quite extensively on scientific computing and engineering mathematics pedagogy, developing code and applications to help aid mathematics instruction in classroom. I have spoken at conferences addressing policy-makers and institute-leaders, and advocated for reform in engineering education. Central to my pedagogical approach is the belief that classroom lessons should always have practical relevance, ensuring that students acquire knowledge that can be directly applied to real-world scenarios.
 
+
+I have an interdisciplinary background. As a researcher I worked in a wet-lab, discovered antibiotics, tested their safety and efficacy. I have developed a smart pill that can 
  
 
 
@@ -26,8 +28,12 @@ Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown
 
 ## :page_with_curl: My Publications
 
-<img src=https://github.com/gspandhana/PhD_Thesis/blob/main/pH11_movie.gif width="250">
-<img src=https://github.com/gspandhana/PhD_Thesis/blob/main/pH12_movie.gif width="250">
+| Results | Research Article |
+|------|-------|
+| <img src=https://github.com/gspandhana/PhD_Thesis/blob/main/pH11_movie.gif width="250"><img src=https://github.com/gspandhana/PhD_Thesis/blob/main/pH12_movie.gif width="250">  | [**Performing calculus: Asymmetric adaptive stimuli-responsive material for derivative control**](https://www.science.org/doi/full/10.1126/sciadv.abe5698)<br /><br />This study demonstrates the development of a simple material capable of mimicking the mathematical first derivative in calculus. The material consists of a stimuli-responsive hydrogel coated asymmetrically with an impermeable elastomer. When exposed to a chemical stimulus, the hydrogel contracts asymmetrically, causing the material to bend. The rate of bending corresponds to the temporal derivative of the stimulus concentration. The material's bending actuation can be utilized as a sensor and controller for drug delivery and self-regulation based on the stimulus's temporal derivative. |
+
+
+
 
 ## 🎓 Certificates & Trainings
 
