@@ -5,7 +5,6 @@ I am one of the founding members of the MathWorks India Education team.
 Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown)) and David Malan ([CS50](https://cs50.harvard.edu/x/2023/)), I have worked quite extensively on scientific computing and engineering mathematics pedagogy, developing code and applications to help aid mathematics instruction in classroom. I have spoken at conferences addressing policy-makers and institute-leaders, and advocated for reform in engineering education. Central to my pedagogical approach is the belief that classroom lessons should always have practical relevance, ensuring that students acquire knowledge that can be directly applied to real-world scenarios.
 
 
-
  
 
 
@@ -36,6 +35,11 @@ Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown
 
 
 ## 🎓 Certificates & Trainings
+
+- [Harvardx CS109: Introduction to Data Science with Python](https://courses.edx.org/certificates/93a200091d544d8689df31f74c41317c)
+- [MITx 6.00.1: Introduction to Computer Science and Programming with Python](https://courses.edx.org/certificates/cc1ee0b59fec4e78bfa6a86fa4081838)
+- [MITx 6.431: Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/d9cd3943c2574e689c06971cff1b6648)
+
 
 <!--
 **gspandhana/gspandhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
