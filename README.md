@@ -14,6 +14,7 @@ I am currently exploring applications of AI to help improve health outcomes for 
 - 🔭 I’m currently exploring AI for drug discovery
 - 👨‍💻 My published research projects are available [here](https://scholar.google.com/citations?hl=en&user=bBjeWI0AAAAJ&view_op=list_works&sortby=pubdate)
 - 💬 Ask me about **Mathematical Modeling**, **Chemical Engineering**, **Machine Learning**, **Biomedical Devices**, **Analytical Chemistry**, **Polymers**, **Experimental Research**, **Image Processing**
+- 📔 Checkout my exlporations in machine learning [here](https://github.com/gspandhana/MachineLearning)
 
 ## 💻 Technologies & Tools
 
