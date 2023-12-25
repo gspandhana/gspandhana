@@ -2,7 +2,7 @@
 <h3 align="center">I am an engineer, scientist, and an educator</h3>
 
 I am one of the founding members of the MathWorks India Education team working on a mission to improve the quality of engineering education in India. 
-Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown)) and David Malan ([CS50](https://cs50.harvard.edu/x/2023/)), I have worked quite extensively on scientific computing and engineering mathematics pedagogy, developing code and applications to help aid mathematics instruction in classroom. I have spoken at conferences addressing policy-makers and institute-leaders, and advocated for reform in engineering education. Central to my pedagogical approach is the belief that classroom lessons should always have practical relevance, ensuring that students acquire knowledge that can be directly applied to real-world scenarios.
+Inspired by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/c/3blue1brown)) and David Malan ([CS50](https://cs50.harvard.edu/x/2023/)), I have worked quite extensively on scientific computing and engineering mathematics pedagogy, developing code and applications to help aid mathematics instruction in classroom. I have spoken at conferences addressing policy-makers and institute leaders and advocated for reform in engineering education. Central to my pedagogical approach is the belief that classroom lessons should always have practical relevance, ensuring that students acquire knowledge that can be directly applied to real-world scenarios.
 
 I am currently exploring applications of AI to help improve health outcomes for people. I am working on a few projects on AI in Medical Image and Signal Processing and AI in Drug Discovery.
 
