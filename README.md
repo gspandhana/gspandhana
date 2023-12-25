@@ -17,8 +17,9 @@ I am currently exploring applications of AI to help improve health outcomes for 
 - 📔 Checkout my explorations in machine learning [here](https://github.com/gspandhana/MachineLearning)
 
 ## 💻 Technologies & Tools
-<img src="https://img.shields.io/badge/MATLAB-005594" height="30">
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+<img src="https://img.shields.io/badge/MATLAB-005594" height="30">
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
